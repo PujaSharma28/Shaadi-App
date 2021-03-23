@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShaadiApp</string>
+    <string name="data">name</string>
+    <string name="emailid">EmailID :</string>
+    <string name="name">Name :</string>
+    <string name="age">Age :</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="network_not_available">Network not available</string>
+</resources>
